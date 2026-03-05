@@ -50,10 +50,16 @@ I’m currently pursuing roles in Business Analytics and Marketing Analytics.
 ## 🎬 Film Rental SQL + Tableau Analytics
 
 ### Problem
-A film rental company wanted to understand customer rental behavior, revenue trends, and the performance of different film categories across locations.
+A film rental company wanted to understand which customers and film categories were driving revenue, and how rental demand differed across locations. The company had large transaction datasets (customers, rentals, payments, inventory), but lacked clear insights into customer lifetime value, category demand patterns, and revenue concentration.
 
 ### My Approach
-I designed SQL queries to combine multiple tables including rentals, payments, films, and customers. Using this dataset, I built Tableau dashboards to analyze revenue trends, category popularity, and customer behavior.
+I wrote SQL queries to integrate data from multiple relational tables including customers, rentals, payments, films, and inventory. Using these queries, I built Tableau dashboards to analyze:
+* rental volume by film category
+* revenue distribution across customers
+* rental demand by store location
+* customer lifetime value (CLV)
+
+The analysis focused on identifying high-value customers and high-performing content categories.
 
 ### Example SQL Query – Customer Lifetime Value Analysis
 
@@ -73,101 +79,151 @@ ORDER BY total_spent DESC
 LIMIT 10;
 ```
 
-### Insight Generated
-This analysis helped identify the highest value customers based on their rental activity and total spending.
-The results show that a small group of repeat customers generated a significant share of total revenue.
+### Key Insights
+• Sports and Animation categories generated the highest rental volume, representing a significant share of total transactions.
+• Customer spending followed a highly skewed distribution, where a relatively small group of repeat customers generated a large portion of total revenue.
+• Rental demand varied across store locations, indicating potential opportunities to optimize inventory allocation by location and category demand.
+
+### Business Impact
+
+These insights could help the company:
+* prioritize high-demand film categories when purchasing inventory
+* identify and retain high-value customers through loyalty programs
+* improve inventory placement across stores based on regional demand patterns
 
 ### Tools
 SQL | Tableau | Data Visualization
 
-### Key Insights
-* Sports and Animation were the most rented film categories  
-* A small segment of repeat customers generated a significant share of revenue  
-* Rental demand varied significantly by location
-
 ![Film Rental Dashboard](film_rental_dashboard.png)
 
 🔎[View Full Project](Film_Rental_SQL_Tableau_Analytics.pdf)
+
+### Tools
+SQL | Tableau | Data Visualization
 
 ---
 
 ## 🏙 Real Estate Market Selection & Investment Optimization
 
 ### Problem
-An investment firm wanted to determine which city offered the best opportunity for a new real estate development project.
+An investment firm was evaluating multiple cities for a new real estate development project. The challenge was to determine which market would deliver the highest long-term financial return while minimizing vacancy risk.
 
 ### My Approach
-I analyzed multiple real estate markets by comparing NOI, vacancy rates, operating costs, and potential equity growth. Financial modeling and simulation were used to evaluate risk and return across markets.
+I performed a comparative market analysis using key real estate investment metrics including:
+* Net Operating Income (NOI)
+* vacancy rates
+* operating expenses
+* projected property value appreciation
 
-### Tools
-Financial Modeling | Market Analysis | Python | Excel
+Financial modeling was used to simulate expected cash flow and equity growth across different market scenarios.
 
 ### Key Insight
-New Hope emerged as the strongest investment opportunity due to its higher projected NOI and stronger long-term equity growth.
+• New Hope demonstrated the strongest projected Net Operating Income, outperforming other markets in the analysis.
+• Lower vacancy projections indicated more stable rental demand, reducing long-term revenue risk.
+• The combination of higher NOI and stronger property appreciation created the highest projected equity growth among the evaluated markets.
+
+### Business Impact
+
+Based on the financial modeling, New Hope represented the most attractive investment opportunity, balancing income stability with long-term value growth.
 
 ![Market Performance](real_estate_analysis.png)
 
 🔎[View Full Project](Real_Estate_Market_Selection_and_Investment_Optimization.pdf)
+
+### Tools
+Financial Modeling | Market Analysis | Python | Excel
 
 ---
 
 ## 🏗 Construction Cost Operations Analytics
 
 ### Problem
-Construction material prices can fluctuate significantly, creating cost risks for large projects.
+Construction companies face significant financial risk due to volatile material prices and supplier dependencies. The goal of this analysis was to identify which material categories were most affected by price fluctuations and where procurement strategies could reduce cost exposure.
 
 ### My Approach
-I analyzed procurement and pricing data to identify categories most affected by price volatility and vendor concentration risks.
+I analyzed procurement and cost datasets to evaluate:
+* price volatility across material categories
+* supplier concentration risk
+* cost trends over time
 
-### Tools
-Operations Analytics | Cost Analysis
+The analysis focused on identifying materials with the highest price instability.
 
 ### Key Insight
-A small number of material categories showed significant price swings, highlighting opportunities for better procurement strategies.
+• A small subset of construction materials showed significant price volatility over time, making them major drivers of cost uncertainty.
+• Certain materials also exhibited high supplier concentration, increasing the risk of supply disruptions and price spikes.
+• Identifying these high-risk categories highlights opportunities to diversify suppliers or negotiate long-term procurement contracts.
+
+### Business Impact
+
+The analysis provides procurement teams with actionable insights to reduce cost volatility and improve budgeting accuracy for large construction projects.
 
 ![Construction Analytics](construction_analytics.png)
 
 🔎[View Full Project](Construction_Cost_Operations_Analytics.pdf)
+
+### Tools
+Operations Analytics | Cost Analysis
 
 ---
 
 ## 🤖📈 AI Marketing Campaign Optimization Strategy
 
 ### Problem
-Marketing teams often struggle to quickly identify which campaigns are performing well and how to adjust strategies in real time.
+Marketing teams often struggle to analyze campaign performance quickly enough to optimize budgets, targeting, and creative strategies in real time. Manual analysis of campaign data can delay decision-making and reduce marketing ROI.
 
 ### My Approach
-I designed a conceptual AI-driven marketing engine that monitors campaign performance, identifies emerging trends, and automatically recommends optimizations such as A/B testing and budget allocation.
+I designed a conceptual AI-powered marketing analytics system that continuously monitors campaign data and recommends optimizations such as:
+* reallocating budgets across campaigns
+* identifying underperforming audience segments
+* recommending A/B testing opportunities
 
-### Tools
-Marketing Analytics | AI Strategy | Campaign Optimization
+The system integrates campaign performance metrics to support faster data-driven decision making.
+
 
 ### Key Insight
-An automated system that analyzes campaign data in real time can significantly improve marketing efficiency and help teams respond faster to performance trends.
+• Real-time campaign monitoring enables marketing teams to identify performance trends earlier and adjust strategy proactively.
+• Automated optimization recommendations can help allocate budgets toward higher-performing channels and audience segments.
+• AI-driven analysis reduces the time required for campaign evaluation, allowing teams to scale experimentation and improve overall marketing efficiency.
+
+### Business Impact
+An automated campaign optimization system can significantly improve marketing ROI by enabling faster, data-driven adjustments to campaign strategy.
 
 ![Marketing AI](marketing_ai_framework.png)
 
 🔎[View Full Project](AI_Marketing_Campaign_Optimization_Strategy.pdf)
+
+### Tools
+Marketing Analytics | AI Strategy | Campaign Optimization
 
 ---
 
 ## 🌱 EcoGrantGenie — AI Grant Writing Assistant
 
 ### Problem
-Nonprofit organizations spend significant time writing grant proposals, often with limited resources and tight deadlines.
+Nonprofit organizations spend significant time and resources preparing grant proposals, often with limited staff capacity. This slows down the funding process and reduces the number of grant opportunities organizations can pursue.
 
 ### My Approach
-I developed the concept for an AI-powered system that assists nonprofits by analyzing grant requirements and generating structured proposal drafts using natural language processing.
+I developed the concept for EcoGrantGenie, an AI-powered grant writing assistant that:
+* analyzes grant requirements
+* generates structured proposal drafts
+* assists with refining proposal narratives
 
-### Tools
-AI Product Design | NLP | LLM Prompt Engineering
+The system uses natural language processing to streamline the proposal creation process.
 
 ### Key Insight
-Automating parts of the grant-writing process can dramatically reduce preparation time while helping organizations focus on refining strategy and storytelling.
+• Automating early stages of grant writing can significantly reduce preparation time for nonprofit organizations.
+• AI-generated proposal drafts help organizations focus more on strategy, storytelling, and impact articulation.
+• The system can increase the number of grant applications nonprofits can submit within limited resource constraints.
+
+### Business Impact
+EcoGrantGenie can help nonprofits secure funding more efficiently while reducing the operational burden of grant proposal development.
 
 ![EcoGrantGenie](ecograntgenie_ai.png)
 
 🔎[View Full Project](EcoGrantGenie_AI_Grant_Writing_Assistant.pdf)
+
+### Tools
+AI Product Design | NLP | LLM Prompt Engineering
 
 <br>
 <br>
