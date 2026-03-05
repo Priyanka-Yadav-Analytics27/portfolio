@@ -19,8 +19,6 @@ Welcome to my analytics portfolio where I showcase projects focused on data-driv
 
 <hr>
 
----
-
 ## About Me
 
 I’m a Business Analytics graduate with experience analyzing business, marketing, and operational data using SQL, Tableau, and statistical analysis.
@@ -49,25 +47,17 @@ I’m currently pursuing roles in Business Analytics and Marketing Analytics.
 
 ## Featured Projects
 
----
+🎬 Film Rental SQL + Tableau Analytics
 
-## 🎬 Film Rental SQL + Tableau Analytics
+### Problem
+A film rental company wanted to understand customer rental behavior, revenue trends, and the performance of different film categories across locations.
 
-**Goal**  
-Analyze customer rental behavior, revenue trends, and film category performance.
+### My Approach
+I designed SQL queries to combine multiple tables including rentals, payments, films, and customers. Using this dataset, I built Tableau dashboards to analyze revenue trends, category popularity, and customer behavior.
 
-**Tools**  
-SQL • Tableau • Data Visualization
+### Example SQL Query – Customer Lifetime Value Analysis
 
-**Key Insights**
-
-• Sports and Animation were the most rented film categories  
-• A small group of repeat customers generated most revenue  
-• Rental demand varied significantly by location  
-
----
-
-### SQL Example — Customer Lifetime Value Analysis
+This query calculates Customer Lifetime Value (CLV) by identifying the customers who generated the highest revenue through rentals.
 
 ```sql
 SELECT 
@@ -82,6 +72,7 @@ GROUP BY c.customer_id, customer_name
 ORDER BY total_spent DESC
 LIMIT 10;
 ```
+
 ### Insight Generated
 This analysis helped identify the highest value customers based on their rental activity and total spending.
 The results show that a small group of repeat customers generated a significant share of total revenue.
@@ -90,9 +81,9 @@ The results show that a small group of repeat customers generated a significant 
 SQL | Tableau | Data Visualization
 
 ### Key Insights
-• Sports and Animation were the most rented film categories  
-• A small segment of repeat customers generated a significant share of revenue  
-• Rental demand varied significantly by location
+* Sports and Animation were the most rented film categories  
+* A small segment of repeat customers generated a significant share of revenue  
+* Rental demand varied significantly by location
 
 ![Film Rental Dashboard](film_rental_dashboard.png)
 
