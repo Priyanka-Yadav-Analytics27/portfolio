@@ -31,11 +31,12 @@ I’m currently pursuing roles in Business Analytics and Marketing Analytics.
 
 ## Tools & Technologies
 
-![SQL](https://img.shields.io/badge/SQL-Analytics-blue)
-![Python](https://img.shields.io/badge/Python-Data%20Analysis-yellow)
-![Tableau](https://img.shields.io/badge/Tableau-Visualization-orange)
-![Excel](https://img.shields.io/badge/Excel-Business%20Analysis-green)
-![Marketing Analytics](https://img.shields.io/badge/Marketing-Analytics-purple)
+![SQL](https://img.shields.io/badge/SQL%20Querying-E8DFF5)
+![Python](https://img.shields.io/badge/Python%20Analytics-D6EADF)
+![Tableau](https://img.shields.io/badge/Tableau%20Dashboards-FFE5B4)
+![Excel](https://img.shields.io/badge/Excel%20Modeling-CDE7BE)
+![Marketing Analytics](https://img.shields.io/badge/Marketing%20Analytics-FFD6E0)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-D6E6FF)
 
 ---
 
