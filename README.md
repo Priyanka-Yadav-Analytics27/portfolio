@@ -47,21 +47,19 @@ I’m currently pursuing roles in Business Analytics and Marketing Analytics.
 
 ---
 
-## Projects
-
-## 📊 Featured Projects
+## Featured Projects
 
 ---
 
 ## 🎬 Film Rental SQL + Tableau Analytics
 
-📊 **Goal**  
+**Goal**  
 Analyze customer rental behavior, revenue trends, and film category performance.
 
-🛠 **Tools**  
+**Tools**  
 SQL • Tableau • Data Visualization
 
-📈 **Key Insights**
+**Key Insights**
 
 • Sports and Animation were the most rented film categories  
 • A small group of repeat customers generated most revenue  
@@ -69,7 +67,7 @@ SQL • Tableau • Data Visualization
 
 ---
 
-### 🔎 SQL Example — Customer Lifetime Value Analysis
+### SQL Example — Customer Lifetime Value Analysis
 
 ```sql
 SELECT 
@@ -100,10 +98,9 @@ SQL | Tableau | Data Visualization
 
 🔎[View Full Project](Film_Rental_SQL_Tableau_Analytics.pdf)
 
-<br>
-<br>
+---
 
-🏙 Real Estate Market Selection & Investment Optimization
+🏙 **Real Estate Market Selection & Investment Optimization**
 
 ### Problem
 An investment firm wanted to determine which city offered the best opportunity for a new real estate development project.
@@ -121,10 +118,9 @@ New Hope emerged as the strongest investment opportunity due to its higher proje
 
 🔎[View Full Project](Real_Estate_Market_Selection_and_Investment_Optimization.pdf)
 
-<br>
-<br>
+---
 
-🏗 Construction Cost Operations Analytics
+🏗 **Construction Cost Operations Analytics**
 
 ### Problem
 Construction material prices can fluctuate significantly, creating cost risks for large projects.
@@ -142,10 +138,9 @@ A small number of material categories showed significant price swings, highlight
 
 🔎[View Full Project](Construction_Cost_Operations_Analytics.pdf)
 
-<br>
-<br>
+---
 
-🤖⚡ AI Marketing Campaign Optimization Strategy
+🤖⚡**AI Marketing Campaign Optimization Strategy**
 
 ### Problem
 Marketing teams often struggle to quickly identify which campaigns are performing well and how to adjust strategies in real time.
@@ -163,10 +158,9 @@ An automated system that analyzes campaign data in real time can significantly i
 
 🔎[View Full Project](AI_Marketing_Campaign_Optimization_Strategy.pdf)
 
-<br>
-<br>
+---
 
-🌱 EcoGrantGenie – AI Grant Writing Assistant
+🌱 **EcoGrantGenie – AI Grant Writing Assistant**
 
 ### Problem
 Nonprofit organizations spend significant time writing grant proposals, often with limited resources and tight deadlines.
