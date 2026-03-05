@@ -49,17 +49,27 @@ I’m currently pursuing roles in Business Analytics and Marketing Analytics.
 
 ## Projects
 
-🎬 Film Rental SQL + Tableau Analytics
+## 📊 Featured Projects
 
-### Problem
-A film rental company wanted to understand customer rental behavior, revenue trends, and the performance of different film categories across locations.
+---
 
-### My Approach
-I designed SQL queries to combine multiple tables including rentals, payments, films, and customers. Using this dataset, I built Tableau dashboards to analyze revenue trends, category popularity, and customer behavior.
+## 🎬 Film Rental SQL + Tableau Analytics
 
-### Example SQL Query – Customer Lifetime Value Analysis
+📊 **Goal**  
+Analyze customer rental behavior, revenue trends, and film category performance.
 
-This query calculates Customer Lifetime Value (CLV) by identifying the customers who generated the highest revenue through rentals.
+🛠 **Tools**  
+SQL • Tableau • Data Visualization
+
+📈 **Key Insights**
+
+• Sports and Animation were the most rented film categories  
+• A small group of repeat customers generated most revenue  
+• Rental demand varied significantly by location  
+
+---
+
+### 🔎 SQL Example — Customer Lifetime Value Analysis
 
 ```sql
 SELECT 
