@@ -1,8 +1,23 @@
-# Priyanka Yadav – Analytics Portfolio
-Business Analytics | Marketing Analytics | Data Visualization
+<h1 align="center">Priyanka Yadav</h1>
 
-📧 **Email:** [Priyankayadav01238@gmail.com](mailto:Priyankayadav01238@gmail.com)
-🔗 **LinkedIn:** [Priyanka Yadav](https://www.linkedin.com/in/yadav27/)
+<p align="center">
+Business Analytics • Marketing Analytics • Data Visualization
+</p>
+
+<p align="center">
+SQL | Tableau | Python | Business Intelligence
+</p>
+
+<p align="center">
+<a href="mailto:Priyankayadav01238@gmail.com">📧 Email</a> |
+<a href="https://www.linkedin.com/in/yadav27/">🔗 LinkedIn</a>
+</p>
+
+<p align="center">
+Welcome to my analytics portfolio where I showcase projects focused on data-driven business insights.
+</p>
+
+<hr>
 
 ---
 
@@ -20,7 +35,7 @@ I’m currently pursuing roles in Business Analytics and Marketing Analytics.
 
 ## Projects
 
-## Film Rental SQL + Tableau Analytics
+##🎬 Film Rental SQL + Tableau Analytics
 
 ### Problem
 A film rental company wanted to understand customer rental behavior, revenue trends, and the performance of different film categories across locations.
@@ -59,12 +74,12 @@ SQL | Tableau | Data Visualization
 
 ![Film Rental Dashboard](film_rental_dashboard.png)
 
-[View Full Project](Film_Rental_SQL_Tableau_Analytics.pdf)
+🔎[View Full Project](Film_Rental_SQL_Tableau_Analytics.pdf)
 
 <br>
 <br>
 
-## Real Estate Market Selection & Investment Optimization
+##🏙 Real Estate Market Selection & Investment Optimization
 
 ### Problem
 An investment firm wanted to determine which city offered the best opportunity for a new real estate development project.
@@ -80,12 +95,12 @@ New Hope emerged as the strongest investment opportunity due to its higher proje
 
 ![Market Performance](real_estate_analysis.png)
 
-[View Full Project](Real_Estate_Market_Selection_and_Investment_Optimization.pdf)
+🔎[View Full Project](Real_Estate_Market_Selection_and_Investment_Optimization.pdf)
 
 <br>
 <br>
 
-## Construction Cost Operations Analytics
+##🏗 Construction Cost Operations Analytics
 
 ### Problem
 Construction material prices can fluctuate significantly, creating cost risks for large projects.
@@ -101,12 +116,12 @@ A small number of material categories showed significant price swings, highlight
 
 ![Construction Analytics](construction_analytics.png)
 
-[View Full Project](Construction_Cost_Operations_Analytics.pdf)
+🔎[View Full Project](Construction_Cost_Operations_Analytics.pdf)
 
 <br>
 <br>
 
-## AI Marketing Campaign Optimization Strategy
+##🤖⚡ AI Marketing Campaign Optimization Strategy
 
 ### Problem
 Marketing teams often struggle to quickly identify which campaigns are performing well and how to adjust strategies in real time.
@@ -122,12 +137,12 @@ An automated system that analyzes campaign data in real time can significantly i
 
 ![Marketing AI](marketing_ai_framework.png)
 
-[View Full Project](AI_Marketing_Campaign_Optimization_Strategy.pdf)
+🔎[View Full Project](AI_Marketing_Campaign_Optimization_Strategy.pdf)
 
 <br>
 <br>
 
-## EcoGrantGenie – AI Grant Writing Assistant
+##🌱 EcoGrantGenie – AI Grant Writing Assistant
 
 ### Problem
 Nonprofit organizations spend significant time writing grant proposals, often with limited resources and tight deadlines.
@@ -143,7 +158,16 @@ Automating parts of the grant-writing process can dramatically reduce preparatio
 
 ![EcoGrantGenie](ecograntgenie_ai.png)
 
-[View Full Project](EcoGrantGenie_AI_Grant_Writing_Assistant.pdf)
+🔎[View Full Project](EcoGrantGenie_AI_Grant_Writing_Assistant.pdf)
 
 <br>
 <br>
+<hr>
+
+<p align="center">
+Built by Priyanka Yadav • Business & Marketing Analytics Portfolio
+</p>
+
+<p align="center">
+© 2026
+</p>
