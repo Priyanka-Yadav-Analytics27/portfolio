@@ -29,13 +29,19 @@ My projects focus on transforming raw data into insights that improve decision-m
 
 I’m currently pursuing roles in Business Analytics and Marketing Analytics.
 
-**Skills:** SQL | Tableau | Python | Data Analysis | Marketing Analytics | Business Intelligence
+## Tools & Technologies
+
+![SQL](https://img.shields.io/badge/SQL-Analytics-blue)
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-yellow)
+![Tableau](https://img.shields.io/badge/Tableau-Visualization-orange)
+![Excel](https://img.shields.io/badge/Excel-Business%20Analysis-green)
+![Marketing Analytics](https://img.shields.io/badge/Marketing-Analytics-purple)
 
 ---
 
 ## Projects
 
-##🎬 Film Rental SQL + Tableau Analytics
+🎬 Film Rental SQL + Tableau Analytics
 
 ### Problem
 A film rental company wanted to understand customer rental behavior, revenue trends, and the performance of different film categories across locations.
@@ -79,7 +85,7 @@ SQL | Tableau | Data Visualization
 <br>
 <br>
 
-##🏙 Real Estate Market Selection & Investment Optimization
+🏙 Real Estate Market Selection & Investment Optimization
 
 ### Problem
 An investment firm wanted to determine which city offered the best opportunity for a new real estate development project.
@@ -100,7 +106,7 @@ New Hope emerged as the strongest investment opportunity due to its higher proje
 <br>
 <br>
 
-##🏗 Construction Cost Operations Analytics
+🏗 Construction Cost Operations Analytics
 
 ### Problem
 Construction material prices can fluctuate significantly, creating cost risks for large projects.
@@ -121,7 +127,7 @@ A small number of material categories showed significant price swings, highlight
 <br>
 <br>
 
-##🤖⚡ AI Marketing Campaign Optimization Strategy
+🤖⚡ AI Marketing Campaign Optimization Strategy
 
 ### Problem
 Marketing teams often struggle to quickly identify which campaigns are performing well and how to adjust strategies in real time.
@@ -142,7 +148,7 @@ An automated system that analyzes campaign data in real time can significantly i
 <br>
 <br>
 
-##🌱 EcoGrantGenie – AI Grant Writing Assistant
+🌱 EcoGrantGenie – AI Grant Writing Assistant
 
 ### Problem
 Nonprofit organizations spend significant time writing grant proposals, often with limited resources and tight deadlines.
