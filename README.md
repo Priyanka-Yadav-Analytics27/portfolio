@@ -1,8 +1,20 @@
 # Priyanka Yadav – Analytics Portfolio
+Business Analytics | Marketing Analytics | Data Visualization
 
-MS Business Analytics | SQL | Tableau | Marketing Analytics | Business Analytics
+📧 **Email:** [Priyankayadav01238@gmail.com](mailto:Priyankayadav01238@gmail.com)
+🔗 **LinkedIn:** [Priyanka Yadav](https://www.linkedin.com/in/yadav27/)
 
-This repository contains selected analytics projects demonstrating experience in data analysis, SQL, dashboards, and business insights.
+---
+
+## About Me
+
+I’m a Business Analytics graduate with experience analyzing business, marketing, and operational data using SQL, Tableau, and statistical analysis.
+
+My projects focus on transforming raw data into insights that improve decision-making, from customer lifetime value analysis to market investment evaluation and marketing optimization.
+
+I’m currently pursuing roles in Business Analytics and Marketing Analytics.
+
+**Skills:** SQL | Tableau | Python | Data Analysis | Marketing Analytics | Business Intelligence
 
 ---
 
