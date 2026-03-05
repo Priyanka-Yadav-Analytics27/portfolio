@@ -80,9 +80,9 @@ LIMIT 10;
 ```
 
 ### Key Insights
-• Sports and Animation categories generated the highest rental volume, representing a significant share of total transactions.
-• Customer spending followed a highly skewed distribution, where a relatively small group of repeat customers generated a large portion of total revenue.
-• Rental demand varied across store locations, indicating potential opportunities to optimize inventory allocation by location and category demand.
+* Sports and Animation categories generated the highest rental volume, representing a significant share of total transactions.
+* Customer spending followed a highly skewed distribution, where a relatively small group of repeat customers generated a large portion of total revenue.
+* Rental demand varied across store locations, indicating potential opportunities to optimize inventory allocation by location and category demand.
 
 ### Business Impact
 
@@ -118,9 +118,9 @@ I performed a comparative market analysis using key real estate investment metri
 Financial modeling was used to simulate expected cash flow and equity growth across different market scenarios.
 
 ### Key Insight
-• New Hope demonstrated the strongest projected Net Operating Income, outperforming other markets in the analysis.
-• Lower vacancy projections indicated more stable rental demand, reducing long-term revenue risk.
-• The combination of higher NOI and stronger property appreciation created the highest projected equity growth among the evaluated markets.
+* New Hope demonstrated the strongest projected Net Operating Income, outperforming other markets in the analysis.
+* Lower vacancy projections indicated more stable rental demand, reducing long-term revenue risk.
+* The combination of higher NOI and stronger property appreciation created the highest projected equity growth among the evaluated markets.
 
 ### Business Impact
 
@@ -149,9 +149,9 @@ I analyzed procurement and cost datasets to evaluate:
 The analysis focused on identifying materials with the highest price instability.
 
 ### Key Insight
-• A small subset of construction materials showed significant price volatility over time, making them major drivers of cost uncertainty.
-• Certain materials also exhibited high supplier concentration, increasing the risk of supply disruptions and price spikes.
-• Identifying these high-risk categories highlights opportunities to diversify suppliers or negotiate long-term procurement contracts.
+* A small subset of construction materials showed significant price volatility over time, making them major drivers of cost uncertainty.
+* Certain materials also exhibited high supplier concentration, increasing the risk of supply disruptions and price spikes.
+* Identifying these high-risk categories highlights opportunities to diversify suppliers or negotiate long-term procurement contracts.
 
 ### Business Impact
 
@@ -181,9 +181,9 @@ The system integrates campaign performance metrics to support faster data-driven
 
 
 ### Key Insight
-• Real-time campaign monitoring enables marketing teams to identify performance trends earlier and adjust strategy proactively.
-• Automated optimization recommendations can help allocate budgets toward higher-performing channels and audience segments.
-• AI-driven analysis reduces the time required for campaign evaluation, allowing teams to scale experimentation and improve overall marketing efficiency.
+* Real-time campaign monitoring enables marketing teams to identify performance trends earlier and adjust strategy proactively.
+* Automated optimization recommendations can help allocate budgets toward higher-performing channels and audience segments.
+* AI-driven analysis reduces the time required for campaign evaluation, allowing teams to scale experimentation and improve overall marketing efficiency.
 
 ### Business Impact
 An automated campaign optimization system can significantly improve marketing ROI by enabling faster, data-driven adjustments to campaign strategy.
@@ -211,9 +211,9 @@ I developed the concept for EcoGrantGenie, an AI-powered grant writing assistant
 The system uses natural language processing to streamline the proposal creation process.
 
 ### Key Insight
-• Automating early stages of grant writing can significantly reduce preparation time for nonprofit organizations.
-• AI-generated proposal drafts help organizations focus more on strategy, storytelling, and impact articulation.
-• The system can increase the number of grant applications nonprofits can submit within limited resource constraints.
+* Automating early stages of grant writing can significantly reduce preparation time for nonprofit organizations.
+* AI-generated proposal drafts help organizations focus more on strategy, storytelling, and impact articulation.
+* The system can increase the number of grant applications nonprofits can submit within limited resource constraints.
 
 ### Business Impact
 EcoGrantGenie can help nonprofits secure funding more efficiently while reducing the operational burden of grant proposal development.
